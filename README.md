@@ -1,4 +1,4 @@
-# IP Geolocation Projesi
+npm # IP Geolocation Projesi
 
 Bu projede Ergineer IP Geolocation API'sine sorgu atacağız ve sonuçlarla IP'ye ait konum bilgilerini göstereceğiz. Amacımız bileşen temelli bir data oluşturup bu datayı kullanarak API'ye sorgu atmak (öncelikle kendi datanızı kullanacaksınız). CSS ve HTML yapısı sizin için oluşturuldu, siz sadece bileşen fonksiyonunu yazıp parçaları birleştireceksiniz.
 
@@ -22,24 +22,24 @@ Bu projede Ergineer IP Geolocation API'sine sorgu atacağız ve sonuçlarla IP'y
 
 **Aşağıdaki adımları uygulayın:**
 
-* [ ] Bu projeyi forklayarak bir kopyasını oluşturun.
-* [ ] Reponun kendi versiyonunuzu klonlayın.
-* [ ] Commitinizi pushlayın: `git push origin main`.
+* [X] Bu projeyi forklayarak bir kopyasını oluşturun.
+* [X] Reponun kendi versiyonunuzu klonlayın.
+* [X] Commitinizi pushlayın: `git push origin main`.
 
 
 ### Proje Kurulumu
 
-* [ ] Komut satırınızla projenin kök dizinine gidin.
-* [ ] `npm install` komutuyla `package.json` da listelenen proje bağımlılıklarını indirin
-* [ ] `npm start` komutuyla projenizi derleyip çalıştırın.
+* [X] Komut satırınızla projenin kök dizinine gidin.
+* [X] `npm install` komutuyla `package.json` da listelenen proje bağımlılıklarını indirin
+* [X] `npm start` komutuyla projenizi derleyip çalıştırın.
 
 ### Axios Kurulumu
 
 #### npm ile Axios yüklemesi 
 
-* [ ] Komut satırınızla projenin kök dizinine gidin.
-* [ ] `npm install axios` komutuyla bağımlılığı indirin (bu şekilde `package.json` a da eklenecektir).
-* [ ] Yukarıdaki `ipgeo/index.js` dosyasını açın, ve en üstüne `import axios from 'axios';` yazarak kütüphaneyi import edin.
+* [X] Komut satırınızla projenin kök dizinine gidin.
+* [X] `npm install axios` komutuyla bağımlılığı indirin (bu şekilde `package.json` a da eklenecektir).
+* [X] Yukarıdaki `ip/index.js` dosyasını açın, ve en üstüne `import axios from 'axios';` yazarak kütüphaneyi import edin.
 
 ### Bölüm 1: IP Geolocation API'den Data Sorgusu
 
